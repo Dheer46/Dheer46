@@ -1,9 +1,5 @@
 # 👋 Hey there, I'm Dheer!
 
-<div align="center">
-  <img src="./github_profile_banner.png" alt="Dheer46 Banner" width="100%" />
-</div>
-
 <br/>
 
 <div align="center">
