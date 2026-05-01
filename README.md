@@ -48,8 +48,8 @@ I am a passionate developer focused on building high-impact applications that br
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[VoteSaathi AI](https://github.com/Dheer46/VoteSaathi)** | Multilingual AI guide for Indian Elections. Luxury design meets civic duty. | `Next.js` `Groq` `Tailwind` |
-| **Eco-Smart** | Sustainability classifier using ML to help consumers make greener choices. | `FastAPI` `Scikit-learn` `React` |
-| **PromptWars** | (The current workspace project) AI prompt engineering and evaluation platform. | `TypeScript` `AI` |
+| **[Eco-Smart](https://github.com/Dheer46/ecosmart)** | Sustainability classifier using ML to help consumers make greener choices. | `FastAPI` `Scikit-learn` `React` |
+| **[Pragati Creations](https://github.com/Dheer46/pragati-creations)** | An Ecommece Platform for Handmade artistic products | `Javascript` `CSS` |
 
 ---
 
