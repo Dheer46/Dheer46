@@ -32,10 +32,10 @@ I am a passionate developer focused on building high-impact applications that br
 
 ### 📊 My GitHub Journey
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dheer46&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheer46&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheer46&theme=radical" alt="GitHub Streak" />
