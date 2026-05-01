@@ -14,7 +14,7 @@
 I am a passionate developer focused on building high-impact applications that bridge the gap between technology and society. My work revolves around **Civic Tech**, **Sustainability**, and **Advanced AI Integration**. I believe in "Luxury Editorial Aesthetics"—making functional software look and feel premium.
 
 - 🔭 Currently building **[VoteSaathi AI](https://github.com/Dheer46/VoteSaathi)**, a platform empowering Indian voters.
-- 🌱 Working on **[Pragati Creations](https://github.com/Dheer46/pragati-creations)**, an Ecommerce Platform for atistic products.
+- 🌱 Working on **[Pragati Creations](https://github.com/Dheer46/pragati-creations)**, an E-commerce Platform for atistic products.
 - ⚡ Focus: **Next.js**, **FastAPI**, **Machine Learning**, and **Premium UI/UX**.
 - 📫 How to reach me: [dheer092006@gmail.com](mailto:dheer092006@gmail.com) 
 
@@ -49,7 +49,7 @@ I am a passionate developer focused on building high-impact applications that br
 | :--- | :--- | :--- |
 | **[VoteSaathi AI](https://github.com/Dheer46/VoteSaathi)** | Multilingual AI guide for Indian Elections. Luxury design meets civic duty. | `Next.js` `Groq` `Tailwind` |
 | **[Eco-Smart](https://github.com/Dheer46/ecosmart)** | Sustainability classifier using ML to help consumers make greener choices. | `FastAPI` `Scikit-learn` `React` |
-| **[Pragati Creations](https://github.com/Dheer46/pragati-creations)** | An Ecommece Platform for Handmade artistic products | `Javascript` `CSS` |
+| **[Pragati Creations](https://github.com/Dheer46/pragati-creations)** | An E-commerce Platform for Handmade artistic products | `Javascript` `CSS` |
 
 ---
 
