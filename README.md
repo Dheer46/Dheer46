@@ -14,9 +14,9 @@
 I am a passionate developer focused on building high-impact applications that bridge the gap between technology and society. My work revolves around **Civic Tech**, **Sustainability**, and **Advanced AI Integration**. I believe in "Luxury Editorial Aesthetics"—making functional software look and feel premium.
 
 - 🔭 Currently building **[VoteSaathi AI](https://github.com/Dheer46/VoteSaathi)**, a platform empowering Indian voters.
-- 🌱 Working on **Eco-Smart**, an AI-driven sustainability classifier.
+- 🌱 Working on **[Pragati Creations](https://github.com/Dheer46/pragati-creations)**, an Ecommerce Platform for atistic products.
 - ⚡ Focus: **Next.js**, **FastAPI**, **Machine Learning**, and **Premium UI/UX**.
-- 📫 How to reach me: [dheer@example.com](mailto:dheer@example.com) (Update with your actual email!)
+- 📫 How to reach me: [dheer092006@gmail.com](mailto:dheer092006@gmail.com) 
 
 ---
 
