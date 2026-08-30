@@ -40,6 +40,7 @@ I am a passionate developer focused on building high-impact applications that br
 <p align="center">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheer46&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheer46&theme=radical" alt="GitHub Streak" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheer46&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
